@@ -1,0 +1,1 @@
+C:\Development\Android\SpinnerDemo1\app\build\intermediates\classes\debug
